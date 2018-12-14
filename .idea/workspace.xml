@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b31f75f-7e63-48ee-ba9b-afc5da08f93d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/features/login/LoginPage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/features/login/login-page.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/helpers/auth-header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/services/user.service.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/action/alert.action.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/action/user.action.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/reducers/alert.reduser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/reducers/auth.reducer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/reducers/root.reducer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/reducers/user.reducer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my-app/src/store/store.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -354,12 +344,12 @@
       <workItem from="1544620921308" duration="1572000" />
       <workItem from="1544691310686" duration="1483000" />
       <workItem from="1544697166907" duration="6903000" />
-      <workItem from="1544775489252" duration="7351000" />
+      <workItem from="1544775489252" duration="7426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23290000" />
+    <option name="totallyTimeSpent" value="23365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
